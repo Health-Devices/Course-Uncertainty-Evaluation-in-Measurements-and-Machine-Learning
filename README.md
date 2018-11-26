@@ -98,7 +98,7 @@ Why uncertainty: <br>
 * Uncertainties relate to the physics of the problem of interest and not to the errors in the mathematical description/solution.
 
 Comparison between different approaches that will be covered in this course is presented in the table below. The approaches include uncertainty in measurements, uncertainty quantification in engineering and science and probabilistic machine learning. <br>
-<img src="CourseDescriptionTable.PNG" alt="Different perspectives of the course">
+![Different perspectives of the course](CourseDescriptionTable.png "Different perspectives of the course")
 
 <i>References</i> <br>
 [1]	F. Pavese, A. B. Forbes, Data Modeling for Metrology and Testing in Measurement Science, Springer, 2009. <br>
