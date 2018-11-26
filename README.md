@@ -63,7 +63,47 @@ We expect participating students to bring basic knowledge and experience in
 * scribing(15% of the grade)
 * final exam (40% of the grade)
 
+### Summary
+Our goal in this course is to quantify uncertainty in our measurements, data analysis and machine learning algorithms. Uncertainty quantification will be done mainly through Bayesian approach and will rely on computational statistics (Monte Carlo). Uncertainty means: getting systems to estimate how much they do not know.
+The course will be focused more on practical than theoretical aspects of uncertainty quantification and therefore we will study new probabilistic programming methods (Python PyMC3) and tools for modeling uncertainties.
+Topics that will be covered are related to:
+* Metrology
+* Machine Learning
+* Decision making
+* Estimation
 
+
+### Expected Learning Outcomes
+After successful completion of this course, you will be able to:
+* Understand basic concepts behind probabilistic machine learning and uncertainty quantification
+* Write programs in Python to do quick analysis
+* Apply your knowledge in metrology, data analytics, analysis of models in engineering and science
+* Analyze problems using Bayesian approaches
+* Perform sampling and MCMC to solve a variety of problems such as integrals and inference
+
+
+### Different perspectives of this course
+
+Over the last several years, deep neural networks advanced many applications including vision, language understanding, speech understanding, robotics and so on. But a major challenge still remain and that is: how to model uncertainty. Good models of uncertainty are crucial whenever decision needs to be made or an algorithm needs to decide how and when to acquire new information. This course is related to analysis of small data that are common in engineering applications and modeling relies on <i>Bayesian theory</i> and <i>Probabilistic Machine Learning</i>. <br>
+
+<i>Uncertainty quantification </i> is related to combining computational models, physical observations, and possibly expert judgment to make inferences about a physical system. Types of uncertainties include:
+* Experimental uncertainty (measurement errors)
+* Model uncertainty/discrepancy.
+* Input/parameter uncertainty.
+* Prediction uncertainty.
+
+Why uncertainty: <br>
+* Uncertainty quantification is a fundamental component of model validation
+* The objective is to replace the subjective notion of confidence with a mathematical rigorous measure
+* Uncertainties relate to the physics of the problem of interest and not to the errors in the mathematical description/solution.
+
+Comparison between different approaches that will be covered in this course is presented in the table below. The approaches include uncertainty in measurements, uncertainty quantification in engineering and science and probabilistic machine learning. <br>
+<img src="CourseDescriptionTable.PNG" alt="Different perspectives of the course">
+
+<i>References</i> <br>
+[1]	F. Pavese, A. B. Forbes, Data Modeling for Metrology and Testing in Measurement Science, Springer, 2009. <br>
+[2]	R. C. Smith, Uncertainty Classification: Theory, Implementation and Applications, SIAM, 2014.<br>
+[3]	R. McElreath, Statistical Re-thinking: A Bayesian Course with Examples in R and Stan, Chapman and Hall/CRC, 2015, http://xcelab.net/rm/statistical-rethinking/<br>
 
 ### Links
 
