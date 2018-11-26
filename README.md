@@ -3,7 +3,7 @@
 
 ### Content
 #### Part I Statistical concepts required to understand uncertainty
-* [1. Probability Distributions](https://mbolic2.github.io/Uncertainty_Course/) <br>
+* [1. Probability Distributions](1. Probability Distributions.IPYNB) <br>
 
 ### Calendar Style Description:
 Uncertainty, Uncertainty propagation, Bayesian Inference, Bayesian Filtering, Data fusion, Metrology, Measurement Science, Error Analysis, Measures of Agreement, Data Quality, Data quality index.  Case studies will be drawn from various fields including biomedical instrumentation, sensors and signal processing.
