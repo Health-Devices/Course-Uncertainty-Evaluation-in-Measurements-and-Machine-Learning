@@ -1,0 +1,14 @@
+#theme: jekyll-theme-slate
+title:  Uncertainty Evaluation in Engineering Measurements and Machine Learningdescription: ELG7172B course website
+baseurl: ''
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - contents
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
