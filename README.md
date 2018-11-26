@@ -1,14 +1,16 @@
 ## Uncertainty Evaluation in Engineering Measurements and Machine Learning
 
-Graduate course given in Winter 2018 at the School of Electrical Engineering and Computer Science, University of Ottawa, Canada.
-Professor: Miodrag Bolic, [Miodrag Bolic email ](mailto:mbolic@site.uottawa.ca)
+Graduate course given in Winter 2018 at the School of Electrical Engineering and Computer Science, University of Ottawa, Canada. <br>
+Professor: Miodrag Bolic, [Web page](https://www.site.uottawa.ca/~mbolic), [Email ](mailto:mbolic@site.uottawa.ca). <br>
+Course development was funded by IEEE Instrumentation and Measurement Society through [Faculty Course Development Award](http://ieee-ims.org/form/faculty-course-development-award). <br>
 
 
 ### Content
 #### Part I Intro: Definitions and motivation
 * [1. Introduction](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/1.%20Probability%20Distributions.ipynb) <br>
+
 #### Part II Statistical concepts required to understand uncertainty
-* [2.1 Probability Distributions](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/1.%20Probability%20Distributions.ipynb) <br>
+* [2.1 Probability Distributions](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/2.1.%20Probability%20Distributions.ipynb) <br>
 * [2.1a Probability Distributions Problems  ](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/2.1a%20Probability%20Distributions%20Problems.ipynb) <br>
 * [2.2 Properties of the Distributions and Gaussian Distribution](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/1.%20Probability%20Distributions.ipynb) <br>
 * [2.3 Independence, Correlation and Bayes Rule](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/1.%20Probability%20Distributions.ipynb) <br>
@@ -48,7 +50,7 @@ Professor: Miodrag Bolic, [Miodrag Bolic email ](mailto:mbolic@site.uottawa.ca)
 
 
 ### Calendar Style Description:
-Uncertainty, Uncertainty propagation, Bayesian Inference, Bayesian Filtering, Data fusion, Metrology, Measurement Science, Error Analysis, Measures of Agreement, Data Quality, Data quality index.  Case studies will be drawn from various fields including biomedical instrumentation, sensors and signal processing.
+Uncertainty, Uncertainty propagation, Bayesian Inference, Bayesian Filtering, Data fusion, Metrology, Measurement Science, Error Analysis, Measures of Agreement, Data Quality.  Case studies will be drawn from various fields including biomedical instrumentation, sensors and signal processing.
 
 **Prerequisites:** Digital signal processing course
 We expect participating students to bring basic knowledge and experience in
@@ -65,10 +67,5 @@ We expect participating students to bring basic knowledge and experience in
 
 ### Links
 
-* [This course at Github](https://mbolic2.github.io/Uncertainty_Course/) <br>
+* [This course at Github](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning) <br>
 * [Virtual campus at the University of Ottawa](https://idp3.uottawa.ca/idp/login.jsp?actionUrl=%2Fidp%2FAuthn%2FUserPassword)
-
-
-### Support or Contact
-
-[Miodrag Bolic email ](mailto:mbolic@site.uottawa.ca)
