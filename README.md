@@ -10,6 +10,21 @@
 * [2.2 Properties of the Distributions and Gaussian Distribution](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/1.%20Probability%20Distributions.ipynb) <br>
 * [2.3 Independence, Correlation and Bayes Rule](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/1.%20Probability%20Distributions.ipynb) <br>
 * [2.2-3a Properties of the Distributions, Independence, Correlation and Bayes Rule Problems  ](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/2.2-3a%20Properties%20of%20the%20Distributions,%20Independence,%20Correlation%20and%20Bayes%20Rule%20Problems.ipynb) <br>
+* [2.4 Bayesian Inference, MAP and LMS](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/2.4 Bayesian Inference, MAP and LMS.ipynb) <br>
+* [2.5 LLMS and MLE](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/2.5 LLMS and MLE.ipynb) <br>
+* [2.4 Bayesian Inference, MAP and LMS](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/2.4-5a Bayesian Inference, MAP, LMS, LLMS and MLE Problems.ipynb) <br>
+* [2.6 Confidence intervals and Bootstrap](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/2.6 Confidence intervals and Bootstrap.ipynb) <br>
+* [2.7 Introduction to Monte Carlo](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/2.7 Introduction to Monte Carlo.ipynb) <br>
+* [2.6-7a Confidence Intervals, Bootstrap, Monte Carlo Problems](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/2.6-7a Confidence Intervals, Bootstrap, Monte Carlo Problems.ipynb) <br>
+
+
+
+#### Part III Density estimation, sensitivity analysis, uncertainty propagation and statistical agreement
+
+
+### Part IV Bayesian Inference using probabilistic programming, Particle filters
+
+
 
 ### Calendar Style Description:
 Uncertainty, Uncertainty propagation, Bayesian Inference, Bayesian Filtering, Data fusion, Metrology, Measurement Science, Error Analysis, Measures of Agreement, Data Quality, Data quality index.  Case studies will be drawn from various fields including biomedical instrumentation, sensors and signal processing.
