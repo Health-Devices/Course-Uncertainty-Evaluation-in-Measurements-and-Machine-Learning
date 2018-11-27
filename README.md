@@ -6,8 +6,9 @@
 
 
 ### Content
+Content includes link to Jupyter Notebooks.
 #### Part I Intro: Definitions and motivation
-* [1  Introduction](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/1%20Introduction.ipynb) <br>
+* [1  Introduction](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/IntroPresentation.pdf) <br>
 
 #### Part II Statistical concepts required to understand uncertainty
 * [2.1 Probability Distributions](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/2.1.%20Probability%20Distributions.ipynb) <br>
@@ -29,7 +30,7 @@
 * [3.2 Uncertainty Propagation](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/3.2%20Uncertainty%20Propagation.ipynb) <br>
 * [3.3 Sensitivity Analysis](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/3.3%20Sensitivity%20Analysis.ipynb) <br>
 * [3.2-3a Sensitivity and uncertainty Problems](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/3.2-3a%20Sensitivity%20and%20uncertainty%20Problems.ipynb) <br>
-* [3.4 Performace metrics and measurement agreement](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/3.4%20Performace%20metrics%20and%20measurement%20agreement.ipynb) <br>
+* [3.4 Performance metrics and measurement agreement](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/3.4%20Performace%20metrics%20and%20measurement%20agreement.ipynb) <br>
 * [3.5 Measurement error model and agreement](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/3.5%20Measurement%20error%20model%20and%20agreement.ipynb) <br>
 * [3.4-5a Errors and agreement Problems](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/tree/master/Course%20Material/3.4-5a%20Errors%20and%20agreement%20Problems.ipynb) <br>
 
