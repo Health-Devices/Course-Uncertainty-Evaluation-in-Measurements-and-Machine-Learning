@@ -47,8 +47,8 @@ Content includes link to Jupyter Notebooks.
 * [4.5-6a Hierarchical and Mixture Models, Gaussian Processes Problems](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/Course%20Material/4.5-6a%20Hierarchical%20and%20Mixture%20Models,%20Gaussian%20Processes%20Problems.ipynb) <br>
 * [4.7 Particle filters](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/Course%20Material/4.7%20Particle%20filters.ipynb) <br>
 * [4.8 Parameter estimation of Kalman and particle filters](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/Course%20Material/4.8%20Parameter%20estimation%20of%20Kalman%20and%20particle%20filters.ipynb) <br>
-* [4.7-8a Particle filters Problems](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/Course%20Material/4.7-8a%20Particle%20filters%20Problems.ipynb) <br>
-
+* [4.7a Particle filters Problems](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/Course%20Material/4.7-8a%20Particle%20filters%20Problems.ipynb) <br>
+* [4.8a Putting it all together Problems](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/Course%20Material/4.8a%20Putting%20it%20all%20together%20Problems.ipynb) <br>
 
 ### Calendar Style Description:
 Uncertainty, Uncertainty propagation, Bayesian Inference, Bayesian Filtering, Data fusion, Metrology, Measurement Science, Error Analysis, Measures of Agreement, Data Quality.  Case studies will be drawn from various fields including biomedical instrumentation, sensors and signal processing.
@@ -103,7 +103,7 @@ Comparison between different approaches that will be covered in this course is p
 
 ### Acknowledgements
 * Course development was funded by IEEE Instrumentation and Measurement Society through [Faculty Course Development Award](http://ieee-ims.org/form/faculty-course-development-award). <br>
-* I would like to thank my students who took the course ELG 7172B at the University of Ottawa in 2018, my TA and the research associate including (without any order): Rajshekhar Mukherjee, Dr. Marzieh Amini, Issa Ayoub, Karthik Prakash, Anand Soraganvi, Srinivas Ayachitula, Dorathi Mounika Magapati, Vani Mrudula Magapati, Yifeng Zheng, Gongjin Zhang, Shanmugaraja Krishnasamy Venugopal, Xunzhe Wen, Zijian Long, Chenjie Sun, Xiaoyan Li, Kalim Shariff, Jayant Chirumalla, Taranbir Singh Wraich, Balu Mahendra Reddy Alla, Akshay Reddy Yarala, Chika Chelvis Boniface Obioha Emetochukwu, Mayur Wani, Nameera Khan, Ishan Khanna, Sanjana Saxena, Yvan Muheto Ntsinzi and others. 
+* I would like to thank my students who took the course ELG 7172B at the University of Ottawa in 2018, my TA and the research associate including (without any order): Rajshekhar Mukherjee, Dr. Marzieh Amini, Issa Ayoub, Karthik Prakash, Anand Soraganvi, Srinivas Ayachitula, Dorathi Mounika Magapati, Vani Mrudula Magapati, Yifeng Zheng, Gongjin Zhang, Shanmugaraja Krishnasamy Venugopal, Xunzhe Wen, Zijian Long, Chenjie Sun, Xiaoyan Li, Kalim Shariff, Jayant Chirumalla, Taranbir Singh Wraich, Balu Mahendra Reddy Alla, Akshay Reddy Yarala, Chika Chelvis Boniface Obioha Emetochukwu, Mayur Wani, Nameera Khan, Ishan Khanna, Sanjana Saxena, Yvan Muheto Ntsinzi and others.
 
 <i>References</i> <br>
 [1]	F. Pavese, A. B. Forbes, Data Modeling for Metrology and Testing in Measurement Science, Springer, 2009. <br>
