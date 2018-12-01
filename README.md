@@ -2,7 +2,7 @@
 
 * Graduate course given in Winter 2018 at the School of Electrical Engineering and Computer Science, University of Ottawa, Canada. <br>
 * Professor: Miodrag Bolic, [Web page](https://www.site.uottawa.ca/~mbolic), [Email ](mailto:mbolic@site.uottawa.ca). <br>
-* Course development was funded by IEEE Instrumentation and Measurement Society through [Faculty Course Development Award](http://ieee-ims.org/form/faculty-course-development-award). <br>
+
 
 
 ### Content
@@ -100,6 +100,10 @@ Why uncertainty: <br>
 
 Comparison between different approaches that will be covered in this course is presented in the table below. The approaches include uncertainty in measurements, uncertainty quantification in engineering and science and probabilistic machine learning. <br>
 ![Different perspectives of the course](CourseDescriptionTable.png "Different perspectives of the course")
+
+### Acknowledgements
+* Course development was funded by IEEE Instrumentation and Measurement Society through [Faculty Course Development Award](http://ieee-ims.org/form/faculty-course-development-award). <br>
+* I would like to thank my students who took the course ELG 7172B at the University of Ottawa in 2018, my TA and the research associate including (without any order): Rajshekhar Mukherjee, Dr. Marzieh Amini, Issa Ayoub, Karthik Prakash, Anand Soraganvi, Srinivas Ayachitula, Dorathi Mounika Magapati, Vani Mrudula Magapati, Yifeng Zheng, Gongjin Zhang, Shanmugaraja Krishnasamy Venugopal, Xunzhe Wen, Zijian Long, Chenjie Sun, Xiaoyan Li, Kalim Shariff, Jayant Chirumalla, Taranbir Singh Wraich, Balu Mahendra Reddy Alla, Akshay Reddy Yarala, Chika Chelvis Boniface Obioha Emetochukwu, Mayur Wani, Nameera Khan, Ishan Khanna, Sanjana Saxena, Yvan Muheto Ntsinzi and others. 
 
 <i>References</i> <br>
 [1]	F. Pavese, A. B. Forbes, Data Modeling for Metrology and Testing in Measurement Science, Springer, 2009. <br>
