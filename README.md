@@ -8,10 +8,10 @@
 ### Content
 Content includes link to Jupyter Notebooks.
 #### Part I Intro: Definitions and motivation
-* [1  Introduction](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/IntroPresentation.pdf) <br>
+* [1  Introduction](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/Course%20Material/IntroPresentation.pdf) <br>
 
 #### Part II Statistical concepts required to understand uncertainty
-* [2.1 Probability Distributions](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/Course%20Material/2.1.%20Probability%20Distributions.ipynb) <br>
+* [2.1 Probability Distributions](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/Course%20Material/2.1%20Probability%20Distributions.ipynb) <br>
 * [2.1a Probability Distributions Problems  ](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/Course%20Material/2.1a%20Probability%20Distributions%20Problems.ipynb)
 * [2.2 Properties of the Distributions and Gaussian Distribution](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/Course%20Material/1.%20Probability%20Distributions.ipynb) <br>
 * [2.3 Independence, Correlation and Bayes Rule](https://github.com/Health-Devices/Course-Uncertainty-Evaluation-in-Measurements-and-Machine-Learning/blob/master/Course%20Material/1.%20Probability%20Distributions.ipynb) <br>
